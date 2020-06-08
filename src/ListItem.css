@@ -1,0 +1,22 @@
+.list{
+    background: rgb(77, 206, 77);
+    width: 300px;
+    color:white;
+    height: 50px;
+    margin:20px auto;
+    border-radius: 10px;
+    
+    
+      
+}
+.list p{
+    padding: 10px;
+    text-transform: capitalize;
+    position: relative;
+
+}
+.list p span{
+    position:absolute;
+    right:10px;
+    cursor: pointer;
+}
